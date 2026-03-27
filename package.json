@@ -1,0 +1,14 @@
+{
+  "name": "info-market-simulator-ts",
+  "version": "0.1.0",
+  "description": "In-memory simulation of information flow into market prices",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
